@@ -38,8 +38,14 @@
 		],
 		"alias":[
 			{
-				"value":"GRB060614A",
-				"source":"1,2"
+				"value":"GRB060614",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?",
+				"source":"2"
 			}
 		],
 		"comovingdist":[

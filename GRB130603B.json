@@ -36,6 +36,12 @@
 				"source":"2"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?",
+				"source":"2"
+			}
+		],
 		"comovingdist":[
 			{
 				"value":"1440",

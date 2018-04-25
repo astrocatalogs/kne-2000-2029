@@ -32,8 +32,14 @@
 		],
 		"alias":[
 			{
-				"value":"GRB080503A",
-				"source":"1,2"
+				"value":"GRB080503",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?",
+				"source":"2"
 			}
 		],
 		"dec":[
